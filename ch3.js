@@ -20,6 +20,8 @@ console.log(min(0, -10));
 
  Exercise 2: Recursion
 
+ This one I looked up help on because i was having trouble.
+
  ********************/
 
 function isEven(n) {
